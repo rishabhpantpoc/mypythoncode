@@ -134,8 +134,7 @@
  2370  clear
  2371  git remote add origin git@github.com:rishabhpantpoc/mypythoncode.git
  2372  git remote -v
- 2373  git remote set-url origin https://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@github.com/rishabhpantpoc/mypythoncode.git
- 2374  git push origin master
+ 
  2375  git status
  2376  git add my.txt
  2377  git status
