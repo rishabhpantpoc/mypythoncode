@@ -1,8 +1,8 @@
-"""Demo module with a simple hello function."""
+# Simple Python program to add two numbers
 
-def hello():
-    """Return a greeting message."""
-    return "Hello Dosto"
+num1 = 5
+num2 = 3
 
+sum_result = num1 + num2
 
-print(hello())
+print("The sum is:", sum_result)
