@@ -1,3 +1,8 @@
-"""This module contains sample code for testing pylint."""
+# Simple Python program to add two numbers
 
-print("Hello, world!")
+num1 = 5
+num2 = 3
+
+sum_result = num1 + num2
+
+print("The sum is:", sum_result)
